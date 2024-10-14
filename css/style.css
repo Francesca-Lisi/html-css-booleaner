@@ -1,0 +1,30 @@
+header{
+  background-color: #4EA1FF;
+  background-image: url(../img/pattern.png);
+  background-repeat: repeat-x;
+  background-size:300px;
+  height: 80px;
+}
+
+img{
+  width: 150px;
+  position: left-bottom;
+}
+
+ h1{
+  height: 70px;
+ }
+
+ h3{
+  color: #717171;
+ 
+}
+
+h3 span{
+  color: #11d1d8
+}
+
+#date{
+  color: #717171;
+  font-size: 10pt;
+}
