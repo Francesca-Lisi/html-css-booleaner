@@ -13,7 +13,7 @@ header img{
   left: 0px;
 }
 
- h1{
+h1{
   height: 38px;
  }
 
@@ -36,6 +36,30 @@ h3 span{
   color: #9c9797;
   font-size: 8pt;
   }
+
+/*Tabella*/
+
+table{
+  border-collapse: collapse;
+  text-align: left;
+  width: 100%;
+}
+tr:nth-child(odd){
+  background-color: #B1E6F2;
+}
+
+th{
+  background-color: #22A9E2;
+  color: white;
+}
+
+#cella-50{
+  width: 50%;
+}
+
+/*/Tabella*/
+
+
 
 .box-image1{
   background-image: url(../img/monitor.jpg);
