@@ -60,6 +60,13 @@ th{
 /*/Tabella*/
 
 
+p span{
+  background-color: yellow;
+}
+
+section img{
+  height: 220px;
+}
 
 .box-image1{
   background-image: url(../img/monitor.jpg);
@@ -75,19 +82,10 @@ th{
   height: 200px;
 }
 
-
 .elencopuntato{
   list-style-type: disc;
   margin-left: 8px;
   padding-left: 8px;
-}
-
-p span{
-  background-color: yellow;
-}
-
-section img{
-  height: 220px;
 }
 
 .didascalia{
